@@ -1,4 +1,4 @@
-# Data Analysis and Visualization projects using Excel 
+# Data Analysis and Visualization Projects using Excel 
 - Author: Amelia Tang
 
 ## Project 1: Sales Analysis Dashboard 
