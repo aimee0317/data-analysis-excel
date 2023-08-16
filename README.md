@@ -8,6 +8,4 @@
 ## Project 2: Advanced Functions in Excel practice 
 #### COUNTIF, COUNTIFS, VLOOKUP, XLOOKUP, INDEX, MATCH, SUMIF, AVERAGEIFS
 
-## Project 3: Inventory Analysis 
-
-## Project 4: Finance Analysis Dashboard using VBA
+## Project 3: Statistical Analysis in Excel
